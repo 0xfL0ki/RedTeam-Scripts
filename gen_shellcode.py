@@ -36,6 +36,3 @@ output = "{{bytes[{0}] = ({1})}}".format(len(binary_data), hex_string)
 print("Shellcode saved as {0}\shellcode.txt".format(os.getcwd()))
 with open("shellcode.txt", "w") as output_file:
     output_file.write(output)
-    
-# print the hex string
-# print(hex_string)
