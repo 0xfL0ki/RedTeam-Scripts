@@ -5,3 +5,4 @@ C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\Debug\GetUserInfo.
 C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\Debug\GetUserInfo.csproj.CoreCompileInputs.cache
 C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\Debug\GetUserInfo.exe
 C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\Debug\GetUserInfo.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\Debug\GetUserInfo.csproj.SuggestedBindingRedirects.cache

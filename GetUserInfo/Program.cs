@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Runtime.InteropServices;
+using System.Net;
 
 namespace GetUserInfo
 {
-    
     class Program
     {
         [DllImport("advapi32.dll", SetLastError = true)]
@@ -60,9 +60,22 @@ namespace GetUserInfo
                 throw new System.ComponentModel.Win32Exception(Marshal.GetLastWin32Error());
             }
             Console.WriteLine("Hostname: " + hostname.ToString());
+            Console.WriteLine("IP Address: " + GetIPAddress());
+        }
 
-            //Console.ReadLine();
+        public static string GetIPAddress()
+        {
+            IPHostEntry host = Dns.GetHostEntry(Dns.GetHostName());
+            foreach (IPAddress ip in host.AddressList)
+            {
+                if (ip.AddressFamily == System.Net.Sockets.AddressFamily.InterNetwork)
+                {
+                    return ip.ToString();
+                }
+            }
+            throw new Exception("Failed to get IP address");
         }
     }
 
 }
+
