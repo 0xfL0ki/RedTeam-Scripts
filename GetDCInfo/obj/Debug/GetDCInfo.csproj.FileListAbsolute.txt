@@ -1,0 +1,7 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetDCInfo\bin\Debug\GetDCInfo.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetDCInfo\bin\Debug\GetDCInfo.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetDCInfo\bin\Debug\GetDCInfo.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetDCInfo\obj\Debug\GetDCInfo.csproj.AssemblyReference.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetDCInfo\obj\Debug\GetDCInfo.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetDCInfo\obj\Debug\GetDCInfo.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetDCInfo\obj\Debug\GetDCInfo.pdb
