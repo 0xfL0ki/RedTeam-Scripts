@@ -1,3 +1,3 @@
 # RedTeam-Scripts
 
-Some handy scripts for Red and Purple team operations!.
+Some handy scripts and projects for Red/Purple team operations!.

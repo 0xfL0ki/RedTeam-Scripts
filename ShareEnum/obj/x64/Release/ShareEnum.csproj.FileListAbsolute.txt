@@ -1,0 +1,6 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\bin\x64\Release\ShareEnum.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\bin\x64\Release\ShareEnum.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\bin\x64\Release\ShareEnum.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\obj\x64\Release\ShareEnum.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\obj\x64\Release\ShareEnum.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\obj\x64\Release\ShareEnum.pdb

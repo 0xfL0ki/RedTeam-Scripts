@@ -1,0 +1,8 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\bin\x64\Release\GetUserInfo.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\bin\x64\Release\GetUserInfo.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\bin\x64\Release\GetUserInfo.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\x64\Release\GetUserInfo.csproj.AssemblyReference.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\x64\Release\GetUserInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\x64\Release\GetUserInfo.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\x64\Release\GetUserInfo.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\GetUserInfo\obj\x64\Release\GetUserInfo.pdb

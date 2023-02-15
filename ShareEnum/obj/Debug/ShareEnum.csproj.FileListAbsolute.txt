@@ -1,0 +1,7 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\bin\Debug\ShareEnum.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\bin\Debug\ShareEnum.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\bin\Debug\ShareEnum.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\obj\Debug\ShareEnum.csproj.AssemblyReference.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\obj\Debug\ShareEnum.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\obj\Debug\ShareEnum.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ShareEnum\obj\Debug\ShareEnum.pdb
