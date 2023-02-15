@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Net;
 using System.Runtime.InteropServices;
 
@@ -39,20 +35,20 @@ namespace GetDCInfo
                 try
                 {
                     WKSTA_INFO_100 wkstaInfo = (WKSTA_INFO_100)Marshal.PtrToStructure(pBuffer, typeof(WKSTA_INFO_100));
-                    Console.WriteLine("Current domain name: " + wkstaInfo.wki100_langroup);
+                    Console.WriteLine("\nCurrent domain name: " + wkstaInfo.wki100_langroup);
 
                     string domainControllerName = Environment.GetEnvironmentVariable("LOGONSERVER");
                     if (!string.IsNullOrEmpty(domainControllerName))
                     {
                         domainControllerName = domainControllerName.Substring(2);
-                        Console.WriteLine("Domain controller name: " + domainControllerName);
+                        Console.WriteLine("\nDomain controller name: " + domainControllerName);
 
                         IPAddress[] addresses = Dns.GetHostAddresses(domainControllerName);
                         foreach (IPAddress address in addresses)
                         {
                             if (address.AddressFamily == System.Net.Sockets.AddressFamily.InterNetwork)
                             {
-                                Console.WriteLine("Domain controller IP address: " + address.ToString());
+                                Console.WriteLine("\nDomain controller IP address: " + address.ToString());
                             }
                         }
                     }
