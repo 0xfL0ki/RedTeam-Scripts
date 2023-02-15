@@ -1,0 +1,7 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\bin\Debug\ProcessList.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\bin\Debug\ProcessList.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\bin\Debug\ProcessList.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\obj\Debug\ProcessList.csproj.AssemblyReference.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\obj\Debug\ProcessList.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\obj\Debug\ProcessList.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\obj\Debug\ProcessList.pdb

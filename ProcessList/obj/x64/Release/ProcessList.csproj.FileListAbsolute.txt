@@ -1,0 +1,6 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\bin\x64\Release\ProcessList.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\bin\x64\Release\ProcessList.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\bin\x64\Release\ProcessList.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\obj\x64\Release\ProcessList.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\obj\x64\Release\ProcessList.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessList\obj\x64\Release\ProcessList.pdb
