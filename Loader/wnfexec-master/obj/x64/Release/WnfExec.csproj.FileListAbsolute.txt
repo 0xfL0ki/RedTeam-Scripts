@@ -1,6 +1,0 @@
-C:\Users\Win10-Dev\Desktop\RedTeam-Scripts\Loader\wnfexec-master\bin\x64\Release\WnfExec.dll
-C:\Users\Win10-Dev\Desktop\RedTeam-Scripts\Loader\wnfexec-master\bin\x64\Release\WnfExec.pdb
-C:\Users\Win10-Dev\Desktop\RedTeam-Scripts\Loader\wnfexec-master\obj\x64\Release\WnfExec.csproj.AssemblyReference.cache
-C:\Users\Win10-Dev\Desktop\RedTeam-Scripts\Loader\wnfexec-master\obj\x64\Release\WnfExec.csproj.CoreCompileInputs.cache
-C:\Users\Win10-Dev\Desktop\RedTeam-Scripts\Loader\wnfexec-master\obj\x64\Release\WnfExec.dll
-C:\Users\Win10-Dev\Desktop\RedTeam-Scripts\Loader\wnfexec-master\obj\x64\Release\WnfExec.pdb
