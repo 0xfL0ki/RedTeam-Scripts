@@ -1,0 +1,7 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\Eventlog-Deletion\DeleteEventLogs\bin\x64\Release\DeleteEventLogs.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\Eventlog-Deletion\DeleteEventLogs\bin\x64\Release\DeleteEventLogs.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\Eventlog-Deletion\DeleteEventLogs\bin\x64\Release\DeleteEventLogs.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\Eventlog-Deletion\DeleteEventLogs\obj\x64\Release\DeleteEventLogs.csproj.AssemblyReference.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\Eventlog-Deletion\DeleteEventLogs\obj\x64\Release\DeleteEventLogs.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\Eventlog-Deletion\DeleteEventLogs\obj\x64\Release\DeleteEventLogs.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\Eventlog-Deletion\DeleteEventLogs\obj\x64\Release\DeleteEventLogs.pdb

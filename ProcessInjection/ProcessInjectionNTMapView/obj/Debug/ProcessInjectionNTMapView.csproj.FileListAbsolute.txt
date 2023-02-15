@@ -1,0 +1,7 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessInjectionNTMapView\bin\Debug\ProcessInjectionNTMapView.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessInjectionNTMapView\bin\Debug\ProcessInjectionNTMapView.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessInjectionNTMapView\bin\Debug\ProcessInjectionNTMapView.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessInjectionNTMapView\obj\Debug\ProcessInjectionNTMapView.csproj.AssemblyReference.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessInjectionNTMapView\obj\Debug\ProcessInjectionNTMapView.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessInjectionNTMapView\obj\Debug\ProcessInjectionNTMapView.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessInjectionNTMapView\obj\Debug\ProcessInjectionNTMapView.pdb

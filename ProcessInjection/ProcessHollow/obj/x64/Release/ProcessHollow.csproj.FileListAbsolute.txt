@@ -1,0 +1,7 @@
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessHollow\bin\x64\Release\ProcessHollow.exe.config
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessHollow\bin\x64\Release\ProcessHollow.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessHollow\bin\x64\Release\ProcessHollow.pdb
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessHollow\obj\x64\Release\ProcessHollow.csproj.AssemblyReference.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessHollow\obj\x64\Release\ProcessHollow.csproj.CoreCompileInputs.cache
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessHollow\obj\x64\Release\ProcessHollow.exe
+C:\Users\Win10-MalDev\Desktop\RedTeam-Scripts\ProcessInjection\ProcessHollow\obj\x64\Release\ProcessHollow.pdb
