@@ -2,7 +2,7 @@ import sys
 
 data = open(sys.argv[1]).read()
 
-words = [ "list" ]
+words = [ "list" ] # ADD the Words here 
 
 output = ""
 iterator = 0
