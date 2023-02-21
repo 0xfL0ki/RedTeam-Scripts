@@ -1,0 +1,10 @@
+C:\Tools\RedTeam-Scripts\BypassCLM\obj\Debug\BypassCLM.csproj.AssemblyReference.cache
+C:\Tools\RedTeam-Scripts\BypassCLM\obj\Debug\BypassCLM.csproj.SuggestedBindingRedirects.cache
+C:\Tools\RedTeam-Scripts\BypassCLM\obj\Debug\BypassCLM.csproj.CoreCompileInputs.cache
+C:\Tools\RedTeam-Scripts\BypassCLM\bin\Debug\BypassCLM.exe.config
+C:\Tools\RedTeam-Scripts\BypassCLM\bin\Debug\BypassCLM.exe
+C:\Tools\RedTeam-Scripts\BypassCLM\bin\Debug\BypassCLM.pdb
+C:\Tools\RedTeam-Scripts\BypassCLM\bin\Debug\System.Management.Automation.dll
+C:\Tools\RedTeam-Scripts\BypassCLM\obj\Debug\BypassCLM.csproj.CopyComplete
+C:\Tools\RedTeam-Scripts\BypassCLM\obj\Debug\BypassCLM.exe
+C:\Tools\RedTeam-Scripts\BypassCLM\obj\Debug\BypassCLM.pdb
